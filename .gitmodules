@@ -1,0 +1,18 @@
+[submodule "hama-farm"]
+	path = hama-farm
+	url = https://github.com/shlim0118/hama-farm.git
+[submodule "hama-fish"]
+	path = hama-fish
+	url = https://github.com/shlim0118/hama-fish.git
+[submodule "hama-lobby"]
+	path = hama-lobby
+	url = https://github.com/shlim0118/hama-lobby.git
+[submodule "hama-velocity"]
+	path = hama-velocity
+	url = https://github.com/shlim0118/hama-velocity.git
+[submodule "hama-velocity-onprem"]
+	path = hama-velocity-onprem
+	url = https://github.com/shlim0118/hama-velocity-onprem.git
+[submodule "hama-wild"]
+	path = hama-wild
+	url = https://github.com/shlim0118/hama-wild.git
